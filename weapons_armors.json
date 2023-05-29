@@ -1,0 +1,291 @@
+{
+    "classes": {
+      "Guerreiro": {
+        "armas": [
+          "Espada Longa",
+          "Machado de Batalha",
+          "Martelo de Guerra",
+          "Lança",
+          "Arco Longo",
+          "Besta",
+          "Clava",
+          "Machadinha",
+          "Espada Curta",
+          "Adaga"
+        ],
+        "armaduras": [
+          "Armadura de Placas",
+          "Cota de Malha",
+          "Couro Batido",
+          "Escudo de Aço",
+          "Elmo de Ferro",
+          "Grevas de Aço",
+          "Manoplas Reforçadas",
+          "Cinturão de Couro",
+          "Braçadeiras de Ferro",
+          "Botas de Batalha"
+        ]
+      },
+      "Mago": {
+        "armas": [
+          "Cajado Mágico",
+          "Varinha de Fogo",
+          "Adaga de Feiticeiro",
+          "Livro de Feitiços",
+          "Orbe Arcano",
+          "Cetro de Cristal",
+          "Tomo Encantado",
+          "Foco Arcano",
+          "Bastão do Arcanista",
+          "Vara Elemental"
+        ],
+        "armaduras": [
+          "Manto do Feiticeiro",
+          "Capa Encantada",
+          "Túnica Arcana",
+          "Elmo de Bruxo",
+          "Botas Etéreas",
+          "Braceletes Encantados",
+          "Luvas do Conjurador",
+          "Anel Místico",
+          "Amuleto do Arcano",
+          "Máscara do Ilusionista"
+        ]
+      },
+      "Ladino": {
+        "armas": [
+          "Adaga",
+          "Espada Curva",
+          "Arco Curto",
+          "Faca de Arremesso",
+          "Espada Rapieira",
+          "Besta de Mão",
+          "Gancho de Ladrão",
+          "Estilete Envenenado",
+          "Espada de Duas Lâminas",
+          "Foice Oculta"
+        ],
+        "armaduras": [
+          "Armadura de Couro",
+          "Túnica de Ladrão",
+          "Capuz Sombrio",
+          "Cinto Furtivo",
+          "Botas Leves",
+          "Braceletes de Couro",
+          "Luvas de Destreza",
+          "Anel da Invisibilidade",
+          "Manto das Sombras",
+          "Botas Silenciosas"
+        ]
+      },
+      "Clérigo": {
+        "armas": [
+          "Martelo Sagrado",
+          "Cajado de Bênçãos",
+          "Maça Abençoada",
+          "Adaga Abençoada",
+          "Cajado da Fé",
+          "Espada de Luz",
+          "Maça de Guerra",
+          "Lança Sagrada",
+          "Cetro Divino",
+          "Escudo Abençoado"
+        ],
+        "armaduras": [
+          "Armadura de Fé",
+          "Túnica Sagrada",
+          "Elmo Abençoado",
+          "Botas da Devoção",
+          "Manoplas do Crente",
+          "Cinto Sagrado",
+          "Braceletes de Proteção",
+          "Anel de Cura",
+          "Colar Divino",
+          "Escudo da Fé"
+        ]
+      },
+      "Bárbaro": {
+        "armas": [
+          "Machado de Guerra",
+          "Martelo de Batalha",
+          "Espada Grande",
+          "Clava de Ossos",
+          "Lança de Guerreiro",
+          "Machado Duplo",
+          "Espada de Duas Mãos",
+          "Maça de Destruição",
+          "Arco de Caçador",
+          "Foice de Guerra"
+        ],
+        "armaduras": [
+          "Armadura de Peles",
+          "Peitoral de Ferro",
+          "Elmo de Chifres",
+          "Botas Rúnicas",
+          "Manoplas de Aço",
+          "Cinto de Força",
+          "Tatuagens Tribais",
+          "Colar de Proteção",
+          "Braceletes de Osso",
+          "Capa de Peles"
+        ]
+      },
+      "Bardo": {
+        "armas": [
+          "Espada Curta",
+          "Alaúde Encantado",
+          "Adaga Harmônica",
+          "Flauta Mágica",
+          "Arco Curto",
+          "Rapieira Sonora",
+          "Trompete Místico",
+          "Chicote Sônico",
+          "Guitarra Arcana",
+          "Clarinete Hipnótico"
+        ],
+        "armaduras": [
+          "Roupa Elegante",
+          "Túnica Melódica",
+          "Chapéu Encantador",
+          "Sapatos Dançantes",
+          "Luvas Musicais",
+          "Cinto Rítmico",
+          "Anel Harmônico",
+          "Pulseiras Melódicas",
+          "Grinalda Encantada",
+          "Manto de Harmonia"
+        ]
+      },
+      "Druida": {
+        "armas": [
+          "Cajado de Carvalho",
+          "Adaga da Natureza",
+          "Lança do Selvagem",
+          "Arco Longo Élfico",
+          "Machado do Bosque",
+          "Martelo de Pedra",
+          "Foice de Druida",
+          "Punhal da Serpente",
+          "Espada de Vinhas",
+          "Orbe Natural"
+        ],
+        "armaduras": [
+          "Túnica de Peles",
+          "Manto da Floresta",
+          "Coroa de Folhas",
+          "Botas Silvestres",
+          "Braceletes de Ramos",
+          "Cinto do Druida",
+          "Luvas da Cura",
+          "Amuleto da Natureza",
+          "Anel da Harmonia",
+          "Elmo do Bosque"
+        ]
+      },
+      "Feiticeiro": {
+        "armas": [
+          "Cajado Místico",
+          "Orbe de Energia",
+          "Adaga Sombria",
+          "Varinha de Trovão",
+          "Fogo Infernal",
+          "Cetro Arcano",
+          "Espada Mágica",
+          "Punhal de Caos",
+          "Lança de Fogo",
+          "Machado das Trevas"
+        ],
+        "armaduras": [
+          "Veste Encantada",
+          "Capa Sombria",
+          "Capuz do Feiticeiro",
+          "Botas de Feitiçaria",
+          "Luvas do Feiticeiro",
+          "Cinto de Magia",
+          "Colar de Feitiços",
+          "Anel do Arcano",
+          "Braceletes de Energia",
+          "Máscara das Sombras"
+        ]
+      },
+      "Monge": {
+        "armas": [
+          "Punho Desarmado",
+          "Cajado de Bambu",
+          "Lança do Monge",
+          "Adaga de Lâmina Curva",
+          "Nunchaku",
+          "Kama",
+          "Espada Kung Fu",
+          "Tonfa",
+          "Espada de Poder",
+          "Arco do Guerreiro"
+        ],
+        "armaduras": [
+          "Roupas Leves",
+          "Túnica de Seda",
+          "Sandálias Ágeis",
+          "Braceletes de Harmonia",
+          "Cinto Trançado",
+          "Luvas de Destreza",
+          "Anel do Equilíbrio",
+          "Amuleto da Serenidade",
+          "Manto de Concentração",
+          "Elmo de Meditação"
+        ]
+      },
+      "Paladino": {
+        "armas": [
+          "Espada Longa Sagrada",
+          "Martelo Divino",
+          "Lança da Justiça",
+          "Maça do Julgamento",
+          "Cajado de Batalha",
+          "Adaga Abençoada",
+          "Foice Sagrada",
+          "Espada de Luz",
+          "Arco do Paladino",
+          "Martelo de Guerra Sagrado"
+        ],
+        "armaduras": [
+          "Armadura Sagrada",
+          "Elmo do Paladino",
+          "Manoplas Abençoadas",
+          "Botas Consagradas",
+          "Peitoral Divino",
+          "Cinto de Virtude",
+          "Braceletes Sagrados",
+          "Colar da Fé",
+          "Capa do Campeão",
+          "Escudo da Redenção"
+        ]
+      },
+      "Patrulheiro": {
+        "armas": [
+          "Arco Longo",
+          "Besta de Caça",
+          "Adaga de Arremesso",
+          "Faca de Caça",
+          "Espada Élfica",
+          "Lança de Patrulheiro",
+          "Machado de Caça",
+          "Punhal do Bosque",
+          "Espada Curta",
+          "Flechas de Prata"
+        ],
+        "armaduras": [
+          "Armadura de Couro",
+          "Túnica de Explorador",
+          "Capuz do Caçador",
+          "Botas Ágeis",
+          "Luvas de Precisão",
+          "Cinto de Resistência",
+          "Anel do Patrulheiro",
+          "Braceletes de Caça",
+          "Capa do Rastreador",
+          "Armadura Élfica"
+        ]
+      }
+    }
+  }
+  
